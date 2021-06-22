@@ -1,0 +1,4 @@
+rootProject.name = 'native-fox-root'
+include 'native-fox-core'
+include 'native-fox-spring-web'
+include 'native-fox'

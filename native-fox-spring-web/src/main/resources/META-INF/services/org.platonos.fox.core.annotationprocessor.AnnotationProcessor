@@ -1,0 +1,3 @@
+org.platonos.fox.springweb.annotationprocessor.ControllerAnnotationProcessor
+org.platonos.fox.springweb.annotationprocessor.RestControllerAnnotationProcessor
+org.platonos.fox.springweb.annotationprocessor.RequestMappingAnnotationProcessor
